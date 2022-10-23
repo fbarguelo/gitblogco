@@ -1,3 +1,6 @@
 DOCUMENTO PRUEBA GIT
 Autor: Fabio Arguello
 Email: fbarguello@gmail.com
+
+Colaborador: Juan Martin
+Email: juanmartzi@gmail.com
